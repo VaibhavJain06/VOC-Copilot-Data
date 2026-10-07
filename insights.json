@@ -1,0 +1,303 @@
+{
+  "updated_at": "2026-10-07",
+  "app": "swiggy",
+  "total_reviews": 470,
+  "date_range": {
+    "from": "2026-09-28 13:27:56",
+    "to": "2026-10-04 23:52:41"
+  },
+  "churn_definition": "Reviews where the writer states they are leaving, uninstalling, switching, or will not order again (rule-based; precision checked on a 20-review sample)",
+  "churn_total": 16,
+  "quotes_dropped": 8,
+  "quotes_filtered": 6,
+  "themes": [
+    {
+      "name": "customer support",
+      "count": 140,
+      "share": 0.298,
+      "low_confidence": false,
+      "catch_all": false,
+      "churn_count": 8,
+      "avg_rating": 1.04,
+      "quotes": [
+        {
+          "review_id": "137c88c7-df21-44d5-a2c2-620d74c74956",
+          "rating": 1,
+          "text": "no response if we received damaged food package 😔"
+        },
+        {
+          "review_id": "fc3d7d4f-4ac7-43ee-9950-de1ab251f046",
+          "rating": 1,
+          "text": "I have contacted customer support multiple times, but I have not received a proper resolution."
+        },
+        {
+          "review_id": "a0629610-a980-4501-b043-81ff4e9bbc69",
+          "rating": 1,
+          "text": "They dont even give response to us when food is bad"
+        },
+        {
+          "review_id": "10a94c03-f511-495c-a2fa-625d65557a0a",
+          "rating": 1,
+          "text": "Extremely Disappointing Customer Service"
+        },
+        {
+          "review_id": "af30caab-5275-4398-9540-97b4b70a44c5",
+          "rating": 1,
+          "text": "not recommended please check and use alternet Apps dont use this app wrest experience no response properly and its showing wrong delivery time dot trust on this time"
+        }
+      ]
+    },
+    {
+      "name": "delivery delay",
+      "count": 95,
+      "share": 0.202,
+      "low_confidence": false,
+      "catch_all": false,
+      "churn_count": 5,
+      "avg_rating": 1.33,
+      "quotes": [
+        {
+          "review_id": "90e69663-bf5f-4220-bbea-dcfe023d3168",
+          "rating": 1,
+          "text": "ordered something, the delevery partner got the wrong restaurant's adress..took more than 1:30 hours...trued to cancel the order but the chat bot gives only option: \"i do not want to cancel my order\".."
+        },
+        {
+          "review_id": "bccdac1a-c85f-4d49-81aa-27a2a1aee5c6",
+          "rating": 1,
+          "text": "don't order from here, very pathetic service ...my order got delayed by 1.5hrs and still haven't received when estimated time was only 40 minutes"
+        },
+        {
+          "review_id": "5f7839c3-5a3b-4efe-9461-e394745cea04",
+          "rating": 1,
+          "text": "when i order food its not coming on time im facing the same problem always."
+        },
+        {
+          "review_id": "75e5e2f0-0900-45bb-aff5-e39add86b779",
+          "rating": 1,
+          "text": "delay th order for couple of hours and refund the amount with sorry has become a hobby for Swiggy helpline."
+        },
+        {
+          "review_id": "f4e16d3b-a4bb-4000-9c4f-c69bffadf138",
+          "rating": 1,
+          "text": "Did not delivered the food....yet showed delivered support agent is even pathetic than bot."
+        }
+      ]
+    },
+    {
+      "name": "other",
+      "count": 82,
+      "share": 0.174,
+      "low_confidence": false,
+      "catch_all": true,
+      "churn_count": 1,
+      "avg_rating": 3.63,
+      "quotes": [
+        {
+          "review_id": "93123153-356b-427c-a505-fff148b282be",
+          "rating": 1,
+          "text": "they make me forcefully enable Swiggy upi to place an order."
+        },
+        {
+          "review_id": "a8083ea0-f7ff-4f3d-bf96-f5fdee960993",
+          "rating": 1,
+          "text": "I request the payments and delivery app team to please look into this, as generating a QR to receive money should not be a hard problem at any scale in 2026."
+        },
+        {
+          "review_id": "57041f03-dfae-40a6-8de2-371d0c828e20",
+          "rating": 1,
+          "text": "there was cash back offer which we havrb5 received"
+        },
+        {
+          "review_id": "519a265c-ac29-47ee-9c19-597acc55f5d8",
+          "rating": 1,
+          "text": "i wanna give zero stars atp...like why isn't there an add upi id option..what if my online banking is down and my friend wanna pay for me and he's too busy to place an order..why can't I place an order and add his upi so that he can just pay and we can go with it..such a disappointing experience"
+        },
+        {
+          "review_id": "f3d1e883-bed9-4757-8a4e-2a8ba0102341",
+          "rating": 1,
+          "text": "The app keeps on freezing when i try to order... pleaseee fix it goshh"
+        }
+      ]
+    },
+    {
+      "name": "high pricing",
+      "count": 44,
+      "share": 0.094,
+      "low_confidence": false,
+      "catch_all": false,
+      "churn_count": 1,
+      "avg_rating": 1.48,
+      "quotes": [
+        {
+          "review_id": "ec8b6f9e-a091-4f66-94d9-09c8ae4c2989",
+          "rating": 1,
+          "text": "It displays a higher price than normal and adds extra charges. It charges more than the actual food."
+        },
+        {
+          "review_id": "3c5391a5-1c61-4031-892c-a9040af389fb",
+          "rating": 1,
+          "text": "overprice listed as of restaurants or shop ..."
+        },
+        {
+          "review_id": "2e972807-3ff3-4bbb-995d-2012a1115374",
+          "rating": 1,
+          "text": "paise jyada le lete hai jo dikhta hai bo hota nhi hai rate 379 aur order Kiya to 391 naye ke liye aur old ke liye to 441 rupees btao kitna thagege ye log"
+        },
+        {
+          "review_id": "5cc880f7-127b-402d-8a48-3f692f88f03f",
+          "rating": 1,
+          "text": "bill265 liya hai 275 this is not fair hum log hamesha online hi samaan lete hai Swiggy wale apni marzi ka bill lga deta hai"
+        },
+        {
+          "review_id": "7bc3a70e-17f2-4070-826b-52592f0a932c",
+          "rating": 1,
+          "text": "charging high platform fee uninstall this app and try toing app"
+        }
+      ]
+    },
+    {
+      "name": "cancellation policy",
+      "count": 43,
+      "share": 0.091,
+      "low_confidence": false,
+      "catch_all": false,
+      "churn_count": 1,
+      "avg_rating": 1.02,
+      "quotes": [
+        {
+          "review_id": "d9570567-203f-4c34-bcb1-e53a25779174",
+          "rating": 1,
+          "text": "worst experience ever, they charge u for cancellation if rider doesn't has change"
+        },
+        {
+          "review_id": "ccaf6910-da26-4e8a-9d36-12af534c9798",
+          "rating": 1,
+          "text": "if I want to cancel any order I would need to pay the cancellation fee which is 100 % of order total."
+        },
+        {
+          "review_id": "f9d0fcff-6ee1-4d0c-9fdf-ae17a71373e3",
+          "rating": 1,
+          "text": "Everything needs to have a cancellation time, you idiot devs."
+        },
+        {
+          "review_id": "08cdce4d-06d4-4b1a-80be-8c6af39730aa",
+          "rating": 1,
+          "text": "bahut hi ghatiya aap hai payment hone ke bad oder cancel ho jata hai payment bhi nhi refund krte hai sale chor hai Swiggy wale inki maa ki"
+        },
+        {
+          "review_id": "259977e8-c838-4758-b040-cef57a3aaa25",
+          "rating": 1,
+          "text": "don't order from Swiggy."
+        }
+      ]
+    },
+    {
+      "name": "food quality",
+      "count": 34,
+      "share": 0.072,
+      "low_confidence": false,
+      "catch_all": false,
+      "churn_count": 0,
+      "avg_rating": 1.71,
+      "quotes": [
+        {
+          "review_id": "7ff7c3fd-22a2-4136-a8db-f67a06546aee",
+          "rating": 1,
+          "text": "in hes food is very very bad in my order they added the cockroach 🪳🪳🪳 chi chi don't order the food please please gyeas don't order the food on Swiggy 😡😡😡😡😡😡😡😡😡😡 it's very very bad"
+        },
+        {
+          "review_id": "add4cc19-c836-4bf7-998f-60e69a1be101",
+          "rating": 1,
+          "text": "I'm going to order the old fashioned way, calling the restaurant."
+        },
+        {
+          "review_id": "5872484d-0c85-432b-a1c2-9f9625e230fb",
+          "rating": 1,
+          "text": "Deleting the app."
+        },
+        {
+          "review_id": "be8fc0bb-8660-416a-952d-9cfb457e9e8b",
+          "rating": 1,
+          "text": "restaurants who are associated with the Swiggy are not good"
+        },
+        {
+          "review_id": "f14a36a8-49aa-4726-981a-e0c084b077a6",
+          "rating": 1,
+          "text": "very bad food 356 rupee but received 40 rupee food"
+        }
+      ]
+    },
+    {
+      "name": "missing items",
+      "count": 24,
+      "share": 0.051,
+      "low_confidence": false,
+      "catch_all": false,
+      "churn_count": 0,
+      "avg_rating": 1.04,
+      "quotes": [
+        {
+          "review_id": "8d277d6f-2931-4fd6-a0b3-1c96d007583d",
+          "rating": 1,
+          "text": "I ordered two plates of momos, but I received only one plate."
+        },
+        {
+          "review_id": "1bd11da9-7b47-46a6-a262-93a7f235fb5a",
+          "rating": 1,
+          "text": "today I ordered from zaika and I got my order from somewhere else."
+        },
+        {
+          "review_id": "c3e4ca3a-f98c-4f14-8a38-1dc161f3d176",
+          "rating": 1,
+          "text": "in Instamart whatever we order they send products other than what ordered and scam us and they won't even respond properly on time and even the delivery partner is not instructed properly on what needs to done when return pick up is initiated"
+        },
+        {
+          "review_id": "d2afa6c7-2dbf-4955-8f03-839b672d88d1",
+          "rating": 1,
+          "text": "worst app don't make orders"
+        },
+        {
+          "review_id": "17c58f86-418c-47d5-8759-617b99fb8a39",
+          "rating": 1,
+          "text": "items are missing from my order still the help section closes the ticket by simply apologizing"
+        }
+      ]
+    },
+    {
+      "name": "unsure",
+      "count": 8,
+      "share": 0.017,
+      "low_confidence": false,
+      "catch_all": true,
+      "churn_count": 0,
+      "avg_rating": 3.12,
+      "quotes": [
+        {
+          "review_id": "3e0726e1-d50b-4349-a052-a71f4e0e75bd",
+          "rating": 1,
+          "text": "one of the wrost app don't use this app"
+        },
+        {
+          "review_id": "2d3ac06e-f244-45f3-89e0-fb27a6cd6bfb",
+          "rating": 1,
+          "text": "worst hotel delivery Link no install only money 🤑....no people 😭😔😔"
+        },
+        {
+          "review_id": "a1260a78-53cc-47d1-9041-cf8e2aba5fdd",
+          "rating": 1,
+          "text": "one of the worst and waste fradust app."
+        },
+        {
+          "review_id": "18474f38-09f2-4ed8-a1fe-47c4d14cbe08",
+          "rating": 3,
+          "text": "2a 2 12 1 xx nne😙D,'dz* a ,🙂"
+        },
+        {
+          "review_id": "b52fdbcc-b479-4e72-903e-72624329ec61",
+          "rating": 4,
+          "text": "j o mkk ka number om00 to ñjjjpikkjm m k s jkokukk99 bíhohhpo0ñnk"
+        }
+      ]
+    }
+  ]
+}
