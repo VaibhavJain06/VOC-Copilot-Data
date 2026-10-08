@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-10-07",
+  "updated_at": "2026-10-08",
   "app": "swiggy",
-  "total_reviews": 470,
+  "total_reviews": 694,
   "date_range": {
-    "from": "2026-09-28 13:27:56",
+    "from": "2026-09-28 01:02:15",
     "to": "2026-10-04 23:52:41"
   },
-  "churn_definition": "Reviews where the writer states they are leaving, uninstalling, switching, or will not order again (rule-based; precision checked on a 20-review sample)",
-  "churn_total": 16,
-  "quotes_dropped": 8,
-  "quotes_filtered": 6,
+  "churn_definition": "Reviews where the writer states they are leaving, uninstalling, switching, or will not order again (rule-based; precision verified by hand on a sample of flagged reviews)",
+  "churn_total": 21,
+  "quotes_dropped": 11,
+  "quotes_filtered": 7,
   "themes": [
     {
       "name": "customer support",
-      "count": 140,
-      "share": 0.298,
+      "count": 203,
+      "share": 0.293,
       "low_confidence": false,
       "catch_all": false,
-      "churn_count": 8,
-      "avg_rating": 1.04,
+      "churn_count": 11,
+      "avg_rating": 1.06,
       "quotes": [
         {
           "review_id": "137c88c7-df21-44d5-a2c2-620d74c74956",
@@ -49,12 +49,12 @@
     },
     {
       "name": "delivery delay",
-      "count": 95,
-      "share": 0.202,
+      "count": 135,
+      "share": 0.195,
       "low_confidence": false,
       "catch_all": false,
-      "churn_count": 5,
-      "avg_rating": 1.33,
+      "churn_count": 6,
+      "avg_rating": 1.34,
       "quotes": [
         {
           "review_id": "90e69663-bf5f-4220-bbea-dcfe023d3168",
@@ -85,12 +85,12 @@
     },
     {
       "name": "other",
-      "count": 82,
-      "share": 0.174,
+      "count": 123,
+      "share": 0.177,
       "low_confidence": false,
       "catch_all": true,
       "churn_count": 1,
-      "avg_rating": 3.63,
+      "avg_rating": 3.54,
       "quotes": [
         {
           "review_id": "93123153-356b-427c-a505-fff148b282be",
@@ -121,12 +121,12 @@
     },
     {
       "name": "high pricing",
-      "count": 44,
+      "count": 65,
       "share": 0.094,
       "low_confidence": false,
       "catch_all": false,
       "churn_count": 1,
-      "avg_rating": 1.48,
+      "avg_rating": 1.43,
       "quotes": [
         {
           "review_id": "ec8b6f9e-a091-4f66-94d9-09c8ae4c2989",
@@ -157,8 +157,8 @@
     },
     {
       "name": "cancellation policy",
-      "count": 43,
-      "share": 0.091,
+      "count": 61,
+      "share": 0.088,
       "low_confidence": false,
       "catch_all": false,
       "churn_count": 1,
@@ -193,12 +193,12 @@
     },
     {
       "name": "food quality",
-      "count": 34,
-      "share": 0.072,
+      "count": 54,
+      "share": 0.078,
       "low_confidence": false,
       "catch_all": false,
       "churn_count": 0,
-      "avg_rating": 1.71,
+      "avg_rating": 1.69,
       "quotes": [
         {
           "review_id": "7ff7c3fd-22a2-4136-a8db-f67a06546aee",
@@ -229,12 +229,12 @@
     },
     {
       "name": "missing items",
-      "count": 24,
-      "share": 0.051,
+      "count": 37,
+      "share": 0.053,
       "low_confidence": false,
       "catch_all": false,
       "churn_count": 0,
-      "avg_rating": 1.04,
+      "avg_rating": 1.03,
       "quotes": [
         {
           "review_id": "8d277d6f-2931-4fd6-a0b3-1c96d007583d",
@@ -265,12 +265,12 @@
     },
     {
       "name": "unsure",
-      "count": 8,
-      "share": 0.017,
+      "count": 16,
+      "share": 0.023,
       "low_confidence": false,
       "catch_all": true,
-      "churn_count": 0,
-      "avg_rating": 3.12,
+      "churn_count": 1,
+      "avg_rating": 3.5,
       "quotes": [
         {
           "review_id": "3e0726e1-d50b-4349-a052-a71f4e0e75bd",
@@ -288,14 +288,14 @@
           "text": "one of the worst and waste fradust app."
         },
         {
+          "review_id": "a5e37218-8d5e-4427-81b9-6802ecc253de",
+          "rating": 1,
+          "text": "Never gonna order again"
+        },
+        {
           "review_id": "18474f38-09f2-4ed8-a1fe-47c4d14cbe08",
           "rating": 3,
           "text": "2a 2 12 1 xx nne😙D,'dz* a ,🙂"
-        },
-        {
-          "review_id": "b52fdbcc-b479-4e72-903e-72624329ec61",
-          "rating": 4,
-          "text": "j o mkk ka number om00 to ñjjjpikkjm m k s jkokukk99 bíhohhpo0ñnk"
         }
       ]
     }
