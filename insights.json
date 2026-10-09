@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-08",
+  "updated_at": "2026-10-09",
   "app": "swiggy",
   "total_reviews": 694,
   "date_range": {
@@ -298,6 +298,163 @@
           "text": "2a 2 12 1 xx nne😙D,'dz* a ,🙂"
         }
       ]
+    }
+  ],
+  "recommendations": [
+    {
+      "theme": "customer support",
+      "count": 203,
+      "share": 0.293,
+      "churn_count": 11,
+      "low_confidence": false,
+      "avg_rating": 1.06,
+      "main_issue": "Customers are experiencing unhelpful support responses, refusal of proper refunds for missing or undelivered items, and a frustrating reliance on an ineffective AI assistant.",
+      "recommendation": "If the product team introduces a streamlined workflow for handling delivery fraud and missing item claims with human agents instead of rigid AI assistants, then customer satisfaction scores and support resolution rates will improve.",
+      "trade_off": "Allocating more human agent resources to complex delivery and refund disputes may increase operational handling times for overall support tickets.",
+      "success_metric": "Weekly share of reviews in the customer support theme",
+      "cited_review_ids": [
+        "199e66e0-99c9-4faf-b108-133af5456b40",
+        "60724809-5c8f-4289-a435-fcf370f362b7",
+        "e4afee48-8870-4865-9acb-9ddbf2326f9a"
+      ],
+      "needs_review": false,
+      "status": "ok",
+      "cited_reviews": [
+        {
+          "review_id": "199e66e0-99c9-4faf-b108-133af5456b40",
+          "rating": 1,
+          "text": "Very disappointing experience with Swiggy. I never received my order, but the delivery partner marked it as delivered just 1 minute after picking it up from the restaurant. I called him multiple times, but he did not answer. Customer support refused to refund me without properly investigating the issue. This appears to be a serious delivery fraud and Swiggy should investigate such cases instead of",
+          "truncated": true
+        },
+        {
+          "review_id": "60724809-5c8f-4289-a435-fcf370f362b7",
+          "rating": 1,
+          "text": "don't depend on them. they will ditch you at your worst time. and there AI service assistant is waste. no proper treatment no proper solution"
+        },
+        {
+          "review_id": "e4afee48-8870-4865-9acb-9ddbf2326f9a",
+          "rating": 1,
+          "text": "this useless company don't have Kannada call centre for the customers to tell the issues so I'm uninstalling this useless app"
+        }
+      ],
+      "filtered_ids": []
+    },
+    {
+      "theme": "delivery delay",
+      "count": 135,
+      "share": 0.195,
+      "churn_count": 6,
+      "low_confidence": false,
+      "avg_rating": 1.34,
+      "main_issue": "Orders take excessively long to arrive or get severely delayed due to late partner assignment and multiple order stacking by drivers.",
+      "recommendation": "If the product team implements a feature to limit multi-order stacking during peak times and restricts order placement when delivery partners are unavailable nearby, then customer delivery times and satisfaction ratings will improve.",
+      "trade_off": "Limiting order stacking may reduce the total volume of orders a single delivery partner can complete in a shift, potentially increasing operational fulfillment costs.",
+      "success_metric": "Weekly share of reviews mentioning delivery delay",
+      "cited_review_ids": [
+        "4661e6e8-f16e-4b6b-81fd-fc2890b62ae6",
+        "5e418ccd-39f6-423d-b73a-ae8a517ff2ae",
+        "5f7839c3-5a3b-4efe-9461-e394745cea04"
+      ],
+      "needs_review": false,
+      "status": "ok",
+      "cited_reviews": [
+        {
+          "review_id": "5e418ccd-39f6-423d-b73a-ae8a517ff2ae",
+          "rating": 1,
+          "text": "I ordered dosa from a hotel just 3 km away in Mysore city, yet Swiggy took more than an hour just to assign a delivery partner. By the time the food reached, it was already two hours old — who wants to eat dosa after that? I even raised a complaint through chat, but nobody bothered to reply. How can your app allow booking if delivery partners are not available in the area? This is completely unacc",
+          "truncated": true
+        },
+        {
+          "review_id": "5f7839c3-5a3b-4efe-9461-e394745cea04",
+          "rating": 1,
+          "text": "when i order food its not coming on time im facing the same problem always. instead of 40 mins it's taken 1:30 mins. delivery person saying multiple orders. this is un fair if u have any delay from swiggy u have to say that. if required I'll place the order. worst app"
+        }
+      ],
+      "filtered_ids": [
+        "4661e6e8-f16e-4b6b-81fd-fc2890b62ae6"
+      ]
+    },
+    {
+      "theme": "high pricing",
+      "count": 65,
+      "share": 0.094,
+      "churn_count": 1,
+      "low_confidence": false,
+      "avg_rating": 1.43,
+      "main_issue": "Customers are frustrated by hidden extra costs such as platform fees, delivery charges, and surge pricing that significantly inflate the final checkout price compared to the initial item cost.",
+      "recommendation": "If the product team provides a transparent upfront cost breakdown on the menu or item page before users add items to the cart, then customer trust and satisfaction regarding pricing will improve.",
+      "trade_off": "Displaying higher total costs upfront may reduce initial cart additions and order completion rates for users sensitive to extra fees.",
+      "success_metric": "Weekly share of reviews in the high pricing theme",
+      "cited_review_ids": [
+        "f061e34e-ceed-4b73-9b45-61cf352d8aef",
+        "f2a33d41-223b-4846-8df9-7f37f5e97b2d",
+        "76ce7888-a0b3-45f8-909d-5e61fc01c017"
+      ],
+      "needs_review": false,
+      "status": "ok",
+      "cited_reviews": [
+        {
+          "review_id": "f061e34e-ceed-4b73-9b45-61cf352d8aef",
+          "rating": 1,
+          "text": "⭐ -infinity/5 Very misleading campaign. Swiggy Buzz shows attractive rewards and prices initially, but once you claim the reward and add items, the prices suddenly increase. If the actual price is higher, it should be shown upfront instead of attracting customers with misleading offers."
+        },
+        {
+          "review_id": "f2a33d41-223b-4846-8df9-7f37f5e97b2d",
+          "rating": 1,
+          "text": "literally the food costs like 200/- but the total cost from all the charges comes upto nearly 500/-, was one of the good apps around, but truly hate this app!"
+        },
+        {
+          "review_id": "76ce7888-a0b3-45f8-909d-5e61fc01c017",
+          "rating": 1,
+          "text": "first they offer free delivery if purchased above 199,when purchased for 300 and came to checkout extra 30 charged for high surge rate🥱, just i want to know is how many daddys you have😁"
+        }
+      ],
+      "filtered_ids": []
+    },
+    {
+      "theme": "cancellation policy",
+      "count": 61,
+      "share": 0.088,
+      "churn_count": 1,
+      "low_confidence": false,
+      "avg_rating": 1.02,
+      "main_issue": "Customers are frustrated by the 100% cancellation fee and the lack of a grace period for cancelling orders immediately after placement.",
+      "recommendation": "If the product team introduces a short grace period allowing free or low-fee cancellations within a minute of order placement, then customer satisfaction scores for order management will improve.",
+      "trade_off": "Allowing fee-free cancellations shortly after placement may increase the operational and financial burden on partner restaurants that have already begun preparing the food.",
+      "success_metric": "Weekly share of reviews mentioning the cancellation policy theme",
+      "cited_review_ids": [
+        "9d5d5a18-a296-4b3b-a209-0e5fec517fc0",
+        "feebac8e-e7a0-437e-a8c6-91873a04bb3b",
+        "259977e8-c838-4758-b040-cef57a3aaa25",
+        "f2f7e95b-f710-4f4c-88ff-0630271064ec"
+      ],
+      "needs_review": false,
+      "status": "ok",
+      "cited_reviews": [
+        {
+          "review_id": "9d5d5a18-a296-4b3b-a209-0e5fec517fc0",
+          "rating": 1,
+          "text": "The worst app experience ever, the app is trying to loot money from us unnecessarily. We ordered items as usual but had the wrong address within a minute we realised and cancelled however we were charged the entire amount of Rs 274 as cancellation fees and no refund was provided at all. I don't know how this is fair, there's no feature to even see which place we have ordered only post ordering tha",
+          "truncated": true
+        },
+        {
+          "review_id": "feebac8e-e7a0-437e-a8c6-91873a04bb3b",
+          "rating": 1,
+          "text": "There should be a cancellation option with nominal fee within a stipulated time for any order after placement, right now it's kept at 100 percent of the order, the customer service guy is giving rude responses like swiggy cannot give you cancellation for free, they have to compensate for food wastage and they have to compensate for restaurants for order cancellation all bogus claims, the main reas",
+          "truncated": true
+        },
+        {
+          "review_id": "259977e8-c838-4758-b040-cef57a3aaa25",
+          "rating": 1,
+          "text": "order cancel nhi karte ye log 1 min bhi nhi hua tha mujhe order kare hue galti se order hua tha ...lekin inhone cancel nhi kiya...very bad experience don't order from Swiggy.😠😠"
+        },
+        {
+          "review_id": "f2f7e95b-f710-4f4c-88ff-0630271064ec",
+          "rating": 1,
+          "text": "i ordered by mistakely but there is no cancel button"
+        }
+      ],
+      "filtered_ids": []
     }
   ]
 }
